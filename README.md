@@ -1,1 +1,1 @@
-This is An E-calculator Developed with of Html , Css and Js.
+This is An E-calculator Developed with  Html , Css and Js.
